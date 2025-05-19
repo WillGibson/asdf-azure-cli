@@ -25,7 +25,7 @@ azure-cli:
 
 ```shell_session
 # Show all installable versions
-$ asdf list-all azure-cli
+$ asdf list all azure-cli
 
 # Install specific version
 $ asdf install azure-cli latest
